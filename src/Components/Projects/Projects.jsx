@@ -6,7 +6,7 @@ function Projects() {
       <div className="max-w-5xl mx-auto py-12 min-h-screen space-y-6 px-3">
         <h2 className="uppercase text-2xl lg:text-4xl text-[#EEEDEB] text-center font-bold">Projects</h2>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 pt-8">
           <div className="flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-[url('./assets/1.png')] bg-no-repeat bg-center">
             <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
               <h2 className="mt-4 mb-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">
