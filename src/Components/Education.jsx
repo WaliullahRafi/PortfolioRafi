@@ -5,18 +5,18 @@ import { MdAnimation } from "react-icons/md";
 function Education() {
   return (
     <div className="bg-[#161513]">
-      <div className="max-w-5xl mx-auto py-8">
+      <div className="max-w-5xl mx-auto py-8 px-3">
         <h2 className="uppercase text-2xl lg:text-4xl text-[#FF8660] text-center font-bold">
           Education
         </h2>
 
-        <div className="grid grid-cols-2 gap-6 mt-12">
-          <div className="flex items-center justify-center gap-8">
+        <div className="grid lg:grid-cols-2 gap-6 mt-12">
+          <div className="flex lg:items-center lg:justify-center gap-8">
             <div>
               <GiAchievement size={40} className="text-[#FF8660]" />
             </div>
             <div className="space-y-2">
-              <span className="font-medium">2018</span>
+              <span className="font-medium">2019</span>
               <h3 className="text-xl font-semibold">
                 Secondary School Certificate
               </h3>
@@ -24,7 +24,7 @@ function Education() {
             </div>
           </div>
 
-          <div className="flex items-center justify-center gap-8">
+          <div className="flex lg:items-center lg:justify-center gap-8">
             <div>
               <GiAchievement size={40} className="text-[#FF8660]" />
             </div>
@@ -35,7 +35,7 @@ function Education() {
             </div>
           </div>
 
-          <div className="flex items-center justify-center gap-8 col-span-2 mt-6">
+          <div className="flex lg:items-center lg:justify-center gap-8 lg:col-span-2 mt-6">
             <div>
               <MdAnimation size={40} className="text-[#FF8660]" />
             </div>
