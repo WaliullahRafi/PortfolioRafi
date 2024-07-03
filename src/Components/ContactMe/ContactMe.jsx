@@ -49,7 +49,7 @@ function ContactMe() {
             className="flex flex-col space-y-4 w-full lg:w-[40vw]"
           >
             <input
-              className="bg-[#191919] px-5 py-3 rounded-md outline-none border-b-[1px] border-[#FF8660]"
+              className="bg-[#191919] px-5 py-3 rounded-md text-zinc-200 outline-none border-b-[1px] border-[#FF8660]"
               placeholder="Name :"
               type="text"
               name="fullName"
@@ -58,7 +58,7 @@ function ContactMe() {
             />
 
             <input
-              className="bg-[#191919] px-5 py-3 rounded-md outline-none border-b-[1px] border-[#FF8660]"
+              className="bg-[#191919] px-5 py-3 rounded-md text-zinc-200 outline-none border-b-[1px] border-[#FF8660]"
               placeholder="Email :"
               type="email"
               name="email"
@@ -67,7 +67,7 @@ function ContactMe() {
             />
 
             <textarea
-              className="bg-[#191919] px-5 py-3 rounded-md outline-none border-b-[1px] border-[#FF8660]"
+              className="bg-[#191919] px-5 py-3 rounded-md text-zinc-200 outline-none border-b-[1px] border-[#FF8660]"
               placeholder="Message"
               name="message"
               cols="20"

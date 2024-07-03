@@ -4,7 +4,9 @@ function Projects() {
   return (
     <div className="bg-[#161513]">
       <div className="max-w-5xl mx-auto py-12 min-h-screen space-y-6 px-3">
-        <h2 className="uppercase text-2xl lg:text-4xl text-[#EEEDEB] text-center font-bold">Projects</h2>
+        <h2 className="uppercase text-2xl lg:text-4xl text-[#EEEDEB] text-center font-bold">
+          Projects
+        </h2>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 pt-8">
           <div className="flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-[url('./assets/1.png')] bg-no-repeat bg-center">
@@ -15,6 +17,7 @@ function Projects() {
               <a
                 className="mt-2 text-lg tracking-wider text-[#FF8660] uppercase underline"
                 href="https://assainment-9-63540.web.app"
+                target="_blank"
               >
                 Website
               </a>
@@ -29,6 +32,7 @@ function Projects() {
               <a
                 className="mt-2 text-lg tracking-wider text-[#FF8660] uppercase underline"
                 href="https://book-vibe-store.netlify.app"
+                target="_blank"
               >
                 Website
               </a>
@@ -44,6 +48,7 @@ function Projects() {
               <a
                 className="mt-2 text-lg tracking-wider text-[#FF8660] uppercase underline"
                 href="https://assainment-11-c2b9c.web.app"
+                target="_blank"
               >
                 Website
               </a>
@@ -59,6 +64,7 @@ function Projects() {
               <a
                 className="mt-2 text-lg tracking-wider text-[#FF8660] uppercase underline"
                 href="https://byte-blaze-techblog-123.netlify.app"
+                target="_blank"
               >
                 Website
               </a>
@@ -74,6 +80,7 @@ function Projects() {
               <a
                 className="mt-2 text-lg tracking-wider text-[#FF8660] uppercase underline"
                 href="https://doc-house-f6840.web.app"
+                target="_blank"
               >
                 Website
               </a>
@@ -89,6 +96,7 @@ function Projects() {
               <a
                 className="mt-2 text-lg tracking-wider text-[#FF8660] uppercase underline"
                 href="https://assainment-10-7f4f3.web.app"
+                target="_blank"
               >
                 Website
               </a>
