@@ -15,9 +15,9 @@ function Education() {
             <div>
               <GiAchievement size={40} className="text-[#FF8660]" />
             </div>
-            <div className="space-y-2">
-              <span className="font-medium">2019</span>
-              <h3 className="text-xl font-semibold">
+            <div className="space-y-2 text-zinc-200">
+              <span className="font-normal md:font-medium">2019</span>
+              <h3 className="text-md md:text-xl font-semibold">
                 Secondary School Certificate
               </h3>
               <p className="font-normal">Jamalpur Technical Training Center</p>
@@ -28,9 +28,9 @@ function Education() {
             <div>
               <GiAchievement size={40} className="text-[#FF8660]" />
             </div>
-            <div className="space-y-2">
-              <span className="font-medium">2020 - 2021</span>
-              <h3 className="text-xl font-semibold">Deploma In Engineering</h3>
+            <div className="space-y-2 text-zinc-200">
+              <span className="font-normal md:font-medium">2020 - 2021</span>
+              <h3 className="text-md md:text-xl font-semibold">Deploma In Engineering</h3>
               <p className="font-normal">Graphic Art Institute, Dhaka</p>
             </div>
           </div>
@@ -39,9 +39,9 @@ function Education() {
             <div>
               <MdAnimation size={40} className="text-[#FF8660]" />
             </div>
-            <div className="space-y-2">
-              <span className="font-medium">Currently Learning_</span>
-              <h3 className="text-xl font-semibold">
+            <div className="space-y-2 text-zinc-200">
+              <span className="font-normal md:font-medium">Currently Learning_</span>
+              <h3 className="text-md md:text-xl font-semibold">
                 Animation with Javascript
               </h3>
               <p className="font-normal">
